@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Botanica - Artisanal Floral Design",
+  "description": "Bespoke seasonal floral arrangements, curated botanical stems, same-day delivery, and custom bouquet atelier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
